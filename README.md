@@ -13,3 +13,22 @@ C# ortamında başlangıç düzeyinde geliştirilmiş; filo takibi,yük yönetim
 
 * **JSON Serialization:** Hesap ve araç verilerinin JSON dosyalarında (`hesaplar.json`, `araclar.json`) yerel olarak kalıcı saklanması.
 * **Defensive Coding:** Sayısal veri girişlerinde (`int.TryParse`) ve metin içi kontrollerde hatalı girdilere karşı tam savunma.
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+This is a console-based logistics simulation developed at the beginner level in the C# environment that manages fleet tracking, cargo management, transfer operations, and account-based balance and transfer transactions. It is built on the principles of Object-Oriented Programming (OOP) and a JSON-based data persistence architecture.
+
+
+* **Multi-Account Management:** Create new accounts and switch between existing accounts.
+* **Financial Transactions:** Check balances, deposit funds into accounts, and securely transfer balances between accounts (wire transfers).
+
+
+* **Inheritance and Polymorphism:** Capacity, axle count, and technical identification management specific to different vehicle types such as `Truck`, `Trailer`, and `Tractor-Trailer` (`virtual` / `override`).
+* **Dynamic Loading:** Package-based weight entry, total load weight, and vehicle load factor calculation (LINQ `Sum()`).
+* **Logistics & Transfer:** Transferring vehicles to different cities and real-time status/location reporting.
+
+
+* **JSON Serialization:** Local persistent storage of account and vehicle data in JSON 
+
+Translated with DeepL.com (free version)
