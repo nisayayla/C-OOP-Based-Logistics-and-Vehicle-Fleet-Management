@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\projem\projem\obj\Debug\net10.0\projem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\projem\projem\obj\Debug\net10.0\projem.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\projem\projem\obj\Debug\net10.0\projem.AssemblyInfo.cs
+C:\Users\Asus\source\repos\projem\projem\obj\Debug\net10.0\projem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\projem\projem\bin\Debug\net10.0\projem.exe
+C:\Users\Asus\source\repos\projem\projem\bin\Debug\net10.0\projem.deps.json
+C:\Users\Asus\source\repos\projem\projem\bin\Debug\net10.0\projem.runtimeconfig.json
+C:\Users\Asus\source\repos\projem\projem\bin\Debug\net10.0\projem.dll
+C:\Users\Asus\source\repos\projem\projem\bin\Debug\net10.0\projem.pdb
+C:\Users\Asus\source\repos\projem\projem\obj\Debug\net10.0\projem.dll
+C:\Users\Asus\source\repos\projem\projem\obj\Debug\net10.0\refint\projem.dll
+C:\Users\Asus\source\repos\projem\projem\obj\Debug\net10.0\projem.pdb
+C:\Users\Asus\source\repos\projem\projem\obj\Debug\net10.0\projem.genruntimeconfig.cache
+C:\Users\Asus\source\repos\projem\projem\obj\Debug\net10.0\ref\projem.dll

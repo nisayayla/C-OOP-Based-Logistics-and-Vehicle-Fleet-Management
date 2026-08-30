@@ -1,0 +1,36 @@
+[
+  {
+    "AracNumarasi": 12,
+    "Kapasite": 0,
+    "Doluluk": 0,
+    "Agirlik": 0,
+    "Sehir": null,
+    "Yuk": [],
+    "AracTuru": {
+      "$type": "kirkayak",
+      "AksSayisi": 4,
+      "Marka": "MAN",
+      "Model": "TGM",
+      "Tip": "K\u0131rkayak (4 Aksl\u0131)",
+      "Kapasite": 15000,
+      "Tipisim": "K\u0131rkayak (4 Aksl\u0131)"
+    }
+  },
+  {
+    "AracNumarasi": 14,
+    "Kapasite": 0,
+    "Doluluk": 0,
+    "Agirlik": 0,
+    "Sehir": null,
+    "Yuk": [],
+    "AracTuru": {
+      "$type": "kamyon",
+      "AksSayisi": 3,
+      "Marka": "MAN",
+      "Model": "TGSM",
+      "Tip": "Kamyon (3 Aksl\u0131)",
+      "Kapasite": 1500,
+      "Tipisim": "Kamyon (3 Aksl\u0131)"
+    }
+  }
+]
