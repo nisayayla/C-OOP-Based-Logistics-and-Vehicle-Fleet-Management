@@ -30,5 +30,3 @@ This is a console-based logistics simulation developed at the beginner level in 
 
 
 * **JSON Serialization:** Local persistent storage of account and vehicle data in JSON 
-
-Translated with DeepL.com (free version)
